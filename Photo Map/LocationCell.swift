@@ -8,6 +8,7 @@
 
 import UIKit
 import AFNetworking
+import MapKit
 
 class LocationCell: UITableViewCell {
 
